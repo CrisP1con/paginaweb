@@ -6,8 +6,7 @@ $(document).ready(function () {
   
       
         $("#contacto").empty().append($("<option>",{
-         value: 1,
-         text: 9
+      
 
 
         }));
